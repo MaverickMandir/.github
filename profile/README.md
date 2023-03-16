@@ -43,16 +43,30 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 
 ## The Programs
 
-| Program | Dimensions | Themes | Objective | About |
+| Program | Dimensions | Subjects/Themes | Objective | About |
 | ------- | ---------- | ------ | --------- | ----- |
-|Prelims|`Cognition` & `Comprehension`|`Language`, `Logic`, `Maths`|Boost Self-Esteem|Building a strong foundation of Critical thinking & Pattern recognition.|
-|Literacy|`Communication` & `Rationality`|`Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding`|Boost Self-confidence|Buidling a strong foundation of effective articulation & creativity|
-|Generalist|`Showmanship` & `Frugality`|`Cosmos`, `Solar System`, `Evolution`, `Human Civilization`, `Relegions & Philosophy`, `Presentation`, `Human Nature`, `Persuation`, `Time Management`, `Money Management`, `Bandwidth Management`|Finding ikigai/why.|Develop a general understanding of how society works, what was the past like & what needs to be done in order to build a better future.|
-|Specialist|`Humility` & `Competence`|`[Mastery in 2P Subject]`|Finding one's passion(Self-sabotaging passions are not considerd).|Develop skillsets based on their individual preferances, indulging such games/activity feels like play & not work.|
-|Independence|`Liberty` & `Wealth`|`Money`, `Market`, `Law`, `Politics`, `Business`|Attaining financial Independence.|Applying skillsets to gain money. Further using that money to build assets that will work for you to build wealth & hence making you financially independent.|
-|Polymath|`Courage` & `Empathy`|`History`, `Reality`, `Ethics`|Learning everything they need.|Preparing thyself in order to attain their Novel Desire.|
-|Fellowship|`Sacrifice` & `Generosity`|`[Practical & Apprenticeship]|Gaining experience & Building reputation.|Working under a mentor who'll guide you & Preparing yourself for the war you need to win.|
-|Startup|`Impact`&`Service`|`[Action]`|Building/joining the organisation that is complementory to you & aligned with your vision.|Taking action to manifest the reality you want to live in.|
+|**Prelims**|`Cognition` & `Comprehension`|`Language`, `Logic`, `Maths`|Boost Self-Esteem|Building a strong foundation of Critical thinking & Pattern recognition.|
+|**Literacy**|`Communication` & `Rationality`|`Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding`|Boost Self-confidence|Buidling a strong foundation of effective articulation & creativity|
+|**Generalist**|`Showmanship` & `Frugality`|`Meme`, `Gene`, `Game`, `Cosmos`, `Solar System`, `Evolution`, `Human Civilization`, `Relegions & Philosophy`, `Presentation`, `Human Nature`, `Persuation`, `Time Management`, `Money Management`, `Bandwidth Management`|Finding ikigai/why.|Develop a general understanding of how society works, what was the past like & what needs to be done in order to build a better future.|
+|**Specialist**|`Humility` & `Competence`|`[Mastery in 2P Subject]`|Finding one's passion(Self-sabotaging passions are not considerd).|Develop skillsets based on their individual preferances, indulging such games/activity feels like play & not work.|
+|**Independence**|`Liberty` & `Wealth`|`Money`, `Market`, `Law`, `Politics`, `Business`|Attaining financial Independence.|Applying skillsets to gain money. Further using that money to build assets that will work for you to build wealth & hence making you financially independent.|
+|**Polymath**|`Courage` & `Empathy`|`History`, `Reality`, `Ethics`|Learning everything they need.|Preparing thyself in order to attain their Novel Desire.|
+|**Fellowship**|`Sacrifice` & `Generosity`|`[Practical & Apprenticeship]`|Gaining experience & Building reputation.|Working under a mentor who'll guide you & Preparing yourself for the war you need to win.|
+|**Startup**|`Impact`& `Service`|`[Action]`|Building/joining the organisation that is complementory to you & aligned with your vision.|Taking action to manifest the reality you want to live in.|
+
+## Protocols
+| Protocols | Regulates | About |
+| ------- | ---------- | ------ |
+|**Health**|``||
+|**Morality**|``||
+|**Wealth**|``||
+|**Happiness**|``||
+|**Sovereignty**|``||
+|**Wisdom**|``||
+|**Generosity**|``||
+|**Influence**|``||
+
+
 
 ## FAQs
 
