@@ -60,12 +60,12 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 | ------- | ---------- | ------ |
 |**Health**|`Sleep`, `Diet`, `NSDR`, `Adaptation`| Taking care of thyself & maintaing good health. |
 |**Dharma**|`Ethics & Morality`, `Integrity`, `Reciprocity`, `Oath`, `Discipline`| To be a good citizen, friend, family member, partner & overall good human being. |
-|**Wealth**|`Value Creation`, `Personal Finance`, `Investments`|To be a self-relient person.|
+|**Wealth/Artha**|`Value Creation`, `Personal Finance`, `Investments`|To be a self-relient person.|
 |**Happiness**|`Fun`,`Purpose`,`Satisfaction`| A Life worth Living|
-|**Sovereignty**|`Freedom`,`Liberty`||
-|**Wisdom**|``||
-|**Generosity**|``||
-|**Influence**|``||
+|**Sovereignty**|`Freedom`,`Liberty`,`Kama(Pursuing a Novel Desire)`| To choose: what to do, when you want to do it, with whoever you choose to do it, whereever you decide to do it within the limits of civilizational values. |
+|**Wisdom**|`Veda(Knowledge)`||
+|**Generosity**|`Love`, `Respect`||
+|**Influence**|`Power`, `Mastery`||
 
 ## FAQs
 
