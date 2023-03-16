@@ -1,0 +1,113 @@
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+# School cum Incubator (& VC)
+
+## Mision
+Reviving Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
+
+## Vision
+**`42.fr` + `Khan Academy` + `Y Combinator` + `Blackstone` + `Gurukul`**(ancient times) **= `Maverick Mandir`.**
+- Zero cost Education & Merit based admission.
+- Gamification: Lessons through Video Games, Tournaments,Championship, Real Prizes, Scientic/historic Tours.
+- Guru: A polymath, true master(by action not degree) in at least one specific domain, democratically choosen, loved & respected by the students. The guru will be the dictator responsible for all aspect of that gurukul.
+- Gurukul: Physical Establishment of Maverick Mandir where students can collaborate, play & compete with other student. 
+- Exclusive community: Social media connecting the students of all the gurukul to collaborate & compete.
+
+## Features
+
+- Mastery Based Learning
+- Project Based Pedegogy
+- Maximised Real reward on success
+- Minimised Real pain on failure.
+- Personalised & Gamified
+- Dynamic Curriculum
+
+
+## Roadmap
+
+- 2021: Ideation & Prototype development.
+- 2022: Alpha launch & further development.
+- 2023: Beta launch & product market fit analysis.
+- By 2024: Version 1 Launch.
+- By 2025: First operational Gurukul campus.
+- By 2035: Establishing 10 Modern aesthetically gorgeous Gurukul where students would love be there & study.
+
+
+## Our Inspirations
+
+ - [42](https://42.fr/)
+ - [Khan Academy](https://www.khanacademy.org/)
+ - [Y Combinator](https://www.ycombinator.com/)
+ - [Blackstone](https://www.blackstone.com/)
+
+
+## The Programs
+
+| Program | Dimensions | Subjects | Objective | About |
+|---|---|---|---|---|
+| Prelims |  |  |  |  |
+| Literacy |  |  |  |  |
+| Generalist |  |  |  |  |
+| Specialist |  |  |  |  |
+| Independence |  |  |  |  |
+| Polymath |  |  |  |  |
+| Fellowship |  |  |  |  |
+| Startup |  |  |  |  |
+
+## FAQs
+
+### How much will Mavericks cost?
+
+We do not claim to be affordable, Even though we'll take zero fees in terms of money from parents, the price both students & parents have to pay in terms of time & bandwidth will be significant but we assure you, it'll be worth it. Also, parents have to invest in Modern essential pieces of equipment such as a laptop/desktop, a VR headset/Projector setup etcetera of the student's choice.
+
+### Why Mavericks is a school cum incubator(& VC) instead of only a school?
+
+One-word answer: Sustainability. 
+Long answer: In ancient India mandir's (a basic school & place of worship) expenses were paid by the local king. But now we needed to figure a way out to be Sustainable without charging hefty fees upfront. One of the core principles of Vedic schooling is, education must be free of cost for those who want to learn & they could choose to donate when they're successful. We take that value very seriously, So the focus of Mavericks School is to make the students successful in a very real way. Incubators cum VC medium to capitalize on the student's success to keep the organization floating. Go through the programs section to get a better picture.
+
+### How Mavericks V1 is better than conventional schools?
+
+We don't believe we're superior to conventional schools. We're better suited for a small proportion of students & well integrated with modern technology that'll students use in the real world, our approach is more students centric than in conventional schools. Also our motivation to make the student successful is better aligned than the conventional schools.
+
+### What is our approach to student centricity?
+
+The world is changing faster than ever, and the idea of static curriculum is utterly useless. Our approach is to make students capable of critical thinking, and decision-making. We don't have arbitrary classes with arbitrary time frames with vague objectives, we have programs with very clear objectives in mind, and students will take as much time as they need to master those.
+
+### How well are we integrated with modern tools and technologies?
+
+Out of so many, we'll mention the funny one, we encourage students to use calculators/google/ChatGPT because guess what,  they'll be able use those in real life too. We'll encourage them to use laptops/mobile along with proper time management skills, because unless they learn to control themselves, no matter how hard we try they'll waste their time engaging in useless activities on their device. We'll encourage students to play video games because every student is interested in playing & that's how they develop social interaction skills, team-playing attitude, and higher cognitive abilities. Also they need a break from Studying. Nobody likes monotony.
+
+### How motivations are aligned?
+
+Unlike conventional schools we don't take fees regardless of the student's performance. The mentality of immoral & almost criminal teachers 'If you don't study, It's your loss, I'll be getting paid anyways', does not apply to us. We have a 'zero cost upfront fee policy' which means we'll only make money when the students are successful. If the students engage in useless/harmful activities, it's not only their loss, it's our loss too. Instead of forcing students to study, we'll push them to not indulge in activities that'll not help them in the long run & anything that remains is helpful & which compounded over time would make the students interested in self-improvement. After that point, they don't need anybody to push themselves, they'll do that for themselves.
+
+## Authors & Creator
+
+- [@Arpan M](https://www.github.com/mrArpanM)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## Documentation
+
+[Explore](https://linktoexpore)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at feedback@notyetdecided
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
