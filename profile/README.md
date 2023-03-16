@@ -56,18 +56,16 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 |**Startup**|`Impact`& `Service`|`[Action]`|Building/joining the organisation that is complementory to you & aligned with your vision.|Taking action to manifest the reality you want to live in.|
 
 ## Protocols
-| Protocols | Regulates | About |
+| Protocols | Regulates | Encourages |
 | ------- | ---------- | ------ |
-|**Health**|`Sleep`, `Diet`, `NSDR`, `Adaptation`| Activities programmed to encourage good health. |
-|**Morality**|``||
-|**Wealth**|``||
-|**Happiness**|``||
-|**Sovereignty**|``||
+|**Health**|`Sleep`, `Diet`, `NSDR`, `Adaptation`| Taking care of thyself & maintaing good health. |
+|**Dharma**|`Ethics & Morality`, `Integrity`, `Reciprocity`, `Oath`, `Discipline`| To be a good citizen, friend, family member, partner & overall good human being. |
+|**Wealth**|`Value Creation`, `Personal Finance`, `Investments`|To be a self-relient person.|
+|**Happiness**|`Fun`,`Purpose`,`Satisfaction`| A Life worth Living|
+|**Sovereignty**|`Freedom`,`Liberty`||
 |**Wisdom**|``||
 |**Generosity**|``||
 |**Influence**|``||
-
-
 
 ## FAQs
 
@@ -78,7 +76,7 @@ We do not claim to be affordable, Even though we'll take zero fees in terms of m
 ### Why Mavericks is a school cum incubator(& VC) instead of only a school?
 
 One-word answer: Sustainability.
-Long answer: In ancient India mandir's (a basic school & place of worship) expenses were paid by the local king. But now we needed to figure a way out to be Sustainable without charging hefty fees upfront. One of the core principles of Vedic schooling is, education must be free of cost for those who want to learn & they could choose to donate when they're successful. We take that value very seriously, So the focus of Mavericks School is to make the students successful in a very real way. Incubators cum VC medium to capitalize on the student's success to keep the organization floating. Go through the programs section to get a better picture.
+Long answer: In ancient India mandir's (a basic school & place of worship) expenses were paid by the local king. But now we needed to figure a way out to be Sustainable without charging hefty fees upfront. One of the core principles of Vedic schooling is, education must be free of cost for those who want to learn & they could choose to donate when they're successful,but we have to sustain until they're successful. So the focus of Mavericks School is to make the students successful in a very real way. Incubators cum VC is the medium to capitalize on the student's success to keep the organization floating. Go through the programs section to get a better picture.
 
 ### How Mavericks V1 is better than conventional schools?
 
@@ -94,7 +92,7 @@ Out of so many, we'll mention the funny one, we encourage students to use calcul
 
 ### How motivations are aligned?
 
-Unlike conventional schools we don't take fees regardless of the student's performance. The mentality of immoral & almost criminal teachers 'If you don't study, It's your loss, I'll be getting paid anyways', does not apply to us. We have a 'zero cost upfront fee policy' which means we'll only make money when the students are successful. If the students engage in useless/harmful activities, it's not only their loss, it's our loss too. Instead of forcing students to study, we'll push them to not indulge in activities that'll not help them in the long run & anything that remains is helpful & which compounded over time would make the students interested in self-improvement. After that point, they don't need anybody to push themselves, they'll do that for themselves.
+Unlike conventional schools we don't take fees regardless of the student's performance. The mentality of immoral & almost criminal teachers "If you don't study, It's your loss, I'll be getting paid anyways", does not apply to us. We have a 'zero upfront fee policy' which means we'll only make money when the students are successful. If the students engage in useless/harmful activities, it's not only their loss, it's our loss too. Instead of forcing students to study, we'll push them to not indulge in self sabotaging activities & anything that remains is helpful & which compounded over time would make the students interested in self-improvement. After that point, they don't need anybody to push themselves, they'll do that for themselves.
 
 ## Authors & Creator
 
