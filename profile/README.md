@@ -1,6 +1,4 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
+![Logo](https://github.com/MaverickMandir/.github/blob/main/logo.png?raw=true)
 
 # School cum Incubator (& VC)
 
@@ -47,8 +45,8 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 
 | Program | Dimensions | Subjects | Objective | About |
 |---|---|---|---|---|
-| Prelims |  |  |  |  |
-| Literacy |  |  |  |  |
+| Prelims | `Cognition` & `Comprehension` | `Language`, `Logic`, `Maths` | Boost Self-Esteem | Building a strong foundation of Critical thinking & Pattern recognition. |
+| Literacy | `Communication` & `Rationality` | `Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding` | Boost Self-confidence | Buiding a strong foundation of effective articulation & creativity |
 | Generalist |  |  |  |  |
 | Specialist |  |  |  |  |
 | Independence |  |  |  |  |
