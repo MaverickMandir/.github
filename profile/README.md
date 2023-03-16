@@ -63,9 +63,9 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 |**Wealth/Artha**|`Value Creation`, `Personal Finance`, `Investments`|To be a self-relient person.|
 |**Happiness**|`Fun`,`Purpose`,`Satisfaction`| A Life worth Living|
 |**Sovereignty**|`Freedom`,`Liberty`,`Kama(Pursuing a Novel Desire)`| To choose: what to do, when you want to do it, with whoever you choose to do it, whereever you decide to do it within the limits of civilizational values. |
-|**Wisdom**|`Veda(Knowledge)`||
-|**Generosity**|`Love`, `Respect`||
-|**Influence**|`Power`, `Mastery`||
+|**Wisdom**|`Veda(Knowledge)`|A living & vibrant citizens in the society|
+|**Generosity**|`Love`, `Respect`|A peaceful & compassionate citizen in the society|
+|**Influence**|`Power`, `Mastery`|To improve governance in society and enhance prosparity.|
 
 ## FAQs
 
