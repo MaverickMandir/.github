@@ -12,8 +12,9 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 
 - Zero cost Education & Merit based admission.
 - Gamification: Lessons through Video Games, Tournaments,Championship, Real Prizes, Scientic/historic Tours.
+- Learning in a environment designed for learning under the guidance of real guru with peers who are worthy rival & a good friend.
 - Guru: A polymath, true master(by action not degree) in at least one specific domain, democratically choosen, loved & respected by the students. The guru will be the dictator responsible for all aspect of that gurukul.
-- Gurukul: Physical Establishment of Maverick Mandir where students can collaborate, play & compete with other student.
+- Gurukul: Physical Establishment of Maverick Mandir where students can collaborate, play & compete with other student, that is designed for learning and where students would love to be.
 - Exclusive community: Social media connecting the students of all the gurukul to collaborate & compete.
 
 ## Features
@@ -57,7 +58,7 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 ## Protocols
 | Protocols | Regulates | About |
 | ------- | ---------- | ------ |
-|**Health**|``||
+|**Health**|`Sleep`, `Diet`, `NSDR`, `Adaptation`| Activities programmed to encourage good health. |
 |**Morality**|``||
 |**Wealth**|``||
 |**Happiness**|``||
