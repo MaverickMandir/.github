@@ -3,14 +3,17 @@
 # School cum Incubator (& VC)
 
 ## Mision
+
 Reviving Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
 
 ## Vision
+
 **`42.fr` + `Khan Academy` + `Y Combinator` + `Blackstone` + `Gurukul`**(ancient times) **= `Maverick Mandir`.**
+
 - Zero cost Education & Merit based admission.
 - Gamification: Lessons through Video Games, Tournaments,Championship, Real Prizes, Scientic/historic Tours.
 - Guru: A polymath, true master(by action not degree) in at least one specific domain, democratically choosen, loved & respected by the students. The guru will be the dictator responsible for all aspect of that gurukul.
-- Gurukul: Physical Establishment of Maverick Mandir where students can collaborate, play & compete with other student. 
+- Gurukul: Physical Establishment of Maverick Mandir where students can collaborate, play & compete with other student.
 - Exclusive community: Social media connecting the students of all the gurukul to collaborate & compete.
 
 ## Features
@@ -22,7 +25,6 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 - Maximised Real reward on successful attempt
 - Minimised Real pain on failed attempt
 
-
 ## Roadmap
 
 - 2021: Ideation & Prototype development.
@@ -32,100 +34,25 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 - By 2025: First operational Gurukul campus.
 - By 2035: Establishing 10 Modern aesthetically gorgeous Gurukul where students would love be there & study.
 
-
 ## Our Inspirations
 
- - [42](https://42.fr/)
- - [Khan Academy](https://www.khanacademy.org/)
- - [Y Combinator](https://www.ycombinator.com/)
- - [Blackstone](https://www.blackstone.com/)
-
+- [42](https://42.fr/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [Y Combinator](https://www.ycombinator.com/)
+- [Blackstone](https://www.blackstone.com/)
 
 ## The Programs
 
 | Program | Dimensions | Themes | Objective | About |
-|---|---|---|---|---|
-    | 
-        Prelims 
-    | 
-        `Cognition` & `Comprehension` 
-    | 
-        `Language`, `Logic`, `Maths` 
-    | 
-        Boost Self-Esteem 
-    | 
-        Building a strong foundation of Critical thinking & Pattern recognition. 
-    || 
-        Literacy 
-    | 
-        `Communication` & `Rationality` 
-    |       
-        `Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding` 
-    | 
-        Boost Self-confidence 
-    | 
-        Buidling a strong foundation of effective articulation & creativity 
-    || 
-        Generalist 
-    | 
-        `Showmanship` & `Frugality`  
-    |
-        `Cosmos`, `Solar System`, `Evolution`, `Human Civilization`, `Relegions & Philosophy`, `Presentation`, `Human Nature`, `Persuation`, `Time Management`, `Money Management`, `Bandwidth Management`
-    |  
-        Finding ikigai/why.
-    |  
-        Develop a general understanding of how society works, what was the past like & what needs to be done in order to build a better future.
-    || 
-        Specialist 
-    |  
-        `Humility` & `Competence`
-    |  
-        `[Mastery in 2P Subject]`
-    |  
-        Finding one's passion(Self-sabotaging passions are not considerd).
-    |  
-        Develop skillsets based on their individual preferances, indulging such games/activity feels like play & not work.
-    || 
-        Independence 
-    |  
-        `Liberty` & `Wealth`
-    |  
-        `Money`, `Market`, `Law`, `Politics`, `Business`
-    |  
-        Attaining financial Independence.
-    |  
-        Applying skillsets to gain money. Further using that money to build assets that will work for you to build wealth & hence making you financially independent.
-    || 
-        Polymath 
-    |  
-        `Courage` & `Empathy`
-    |  
-        `History`, `Reality`, `Ethics`
-    |  
-        Learning everything they need.
-    |  
-        Preparing thyself in order to attain their Novel Desire.
-    || 
-        Fellowship 
-    |  
-        `Sacrifice` & `Generosity`
-    |  
-        `[Practical & Apprenticeship]
-    |  
-        Gaining experience & Building reputation.
-    |  
-        Working under a mentor who'll guide you & Preparing yourself for the war you need to win.
-    || 
-        Startup 
-    |  
-        `Impact` & `Service`
-    |  
-        `[Action]`
-    |  
-        Building/joining the organisation that is complementory to you & aligned with your vision.
-    |
-        Taking action to manifest the reality you want to live in.
-    |
+| ------- | ---------- | ------ | --------- | ----- |
+|Prelims|`Cognition` & `Comprehension`|`Language`, `Logic`, `Maths`|Boost Self-Esteem|Building a strong foundation of Critical thinking & Pattern recognition.|
+|Literacy|`Communication` & `Rationality`|`Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding`|Boost Self-confidence|Buidling a strong foundation of effective articulation & creativity|
+|Generalist|`Showmanship` & `Frugality`|`Cosmos`, `Solar System`, `Evolution`, `Human Civilization`, `Relegions & Philosophy`, `Presentation`, `Human Nature`, `Persuation`, `Time Management`, `Money Management`, `Bandwidth Management`|Finding ikigai/why.|Develop a general understanding of how society works, what was the past like & what needs to be done in order to build a better future.|
+|Specialist|`Humility` & `Competence`|`[Mastery in 2P Subject]`|Finding one's passion(Self-sabotaging passions are not considerd).|Develop skillsets based on their individual preferances, indulging such games/activity feels like play & not work.|
+|Independence|`Liberty` & `Wealth`|`Money`, `Market`, `Law`, `Politics`, `Business`|Attaining financial Independence.|Applying skillsets to gain money. Further using that money to build assets that will work for you to build wealth & hence making you financially independent.|
+|Polymath|`Courage` & `Empathy`|`History`, `Reality`, `Ethics`|Learning everything they need.|Preparing thyself in order to attain their Novel Desire.|
+|Fellowship|`Sacrifice` & `Generosity`|`[Practical & Apprenticeship]|Gaining experience & Building reputation.|Working under a mentor who'll guide you & Preparing yourself for the war you need to win.|
+|Startup|`Impact`&`Service`|`[Action]`|Building/joining the organisation that is complementory to you & aligned with your vision.|Taking action to manifest the reality you want to live in.|
 
 ## FAQs
 
@@ -135,7 +62,7 @@ We do not claim to be affordable, Even though we'll take zero fees in terms of m
 
 ### Why Mavericks is a school cum incubator(& VC) instead of only a school?
 
-One-word answer: Sustainability. 
+One-word answer: Sustainability.
 Long answer: In ancient India mandir's (a basic school & place of worship) expenses were paid by the local king. But now we needed to figure a way out to be Sustainable without charging hefty fees upfront. One of the core principles of Vedic schooling is, education must be free of cost for those who want to learn & they could choose to donate when they're successful. We take that value very seriously, So the focus of Mavericks School is to make the students successful in a very real way. Incubators cum VC medium to capitalize on the student's success to keep the organization floating. Go through the programs section to get a better picture.
 
 ### How Mavericks V1 is better than conventional schools?
@@ -148,7 +75,7 @@ The world is changing faster than ever, and the idea of static curriculum is utt
 
 ### How well are we integrated with modern tools and technologies?
 
-Out of so many, we'll mention the funny one, we encourage students to use calculators/google/ChatGPT because guess what,  they'll be able use those in real life too. We'll encourage them to use laptops/mobile along with proper time management skills, because unless they learn to control themselves, no matter how hard we try they'll waste their time engaging in useless activities on their device. We'll encourage students to play video games because every student is interested in playing & that's how they develop social interaction skills, team-playing attitude, and higher cognitive abilities. Also they need a break from Studying. Nobody likes monotony.
+Out of so many, we'll mention the funny one, we encourage students to use calculators/google/ChatGPT because guess what, they'll be able use those in real life too. We'll encourage them to use laptops/mobile along with proper time management skills, because unless they learn to control themselves, no matter how hard we try they'll waste their time engaging in useless activities on their device. We'll encourage students to play video games because every student is interested in playing & that's how they develop social interaction skills, team-playing attitude, and higher cognitive abilities. Also they need a break from Studying. Nobody likes monotony.
 
 ### How motivations are aligned?
 
@@ -158,7 +85,6 @@ Unlike conventional schools we don't take fees regardless of the student's perfo
 
 - [@Arpan M](https://www.github.com/mrArpanM)
 
-
 ## Contributing
 
 Contributions are always welcome!
@@ -167,18 +93,14 @@ See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
 
-
 ## Documentation
 
 [Explore](https://linktoexpore)
-
 
 ## Feedback
 
 If you have any feedback, please reach out to us at feedback@notyetdecided
 
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
