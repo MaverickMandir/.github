@@ -1,8 +1,4 @@
-# School cum Incubator (& VC)
-
-![Logo](https://github.com/MaverickMandir/.github/blob/main/logo.png?raw=true)
-
-<img src="././logo.png" width="40">
+# <img src="././logo.png" width="50"> School cum Incubator (& VC)
 
 ## Mision
 
