@@ -2,6 +2,8 @@
 
 ![Logo](https://github.com/MaverickMandir/.github/blob/main/logo.png?raw=true)
 
+<img src="././logo.png" width="40">
+
 ## Mision
 
 Reviving Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
@@ -72,9 +74,9 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 - [Y Combinator](https://www.ycombinator.com/)
 - [Blackstone](https://www.blackstone.com/)
 
-> ## Overview
+## Overview
 
-> No classes, No rigid courses & No stupid rules.
+> No classes, No rigid courses & No stupid rules. <br>
 > Only learning, programs & protocols.
 
 ### The Programs
