@@ -1,6 +1,9 @@
 # School cum Incubator (& VC)
 <img src="././logo.png" width="100">
 
+## USP
+We are the only institution in the world who'll accept ZERO/ZIP/NADA amount of money until we've already helped you to start making money.
+
 ## Mision
 
 Reviving Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
@@ -10,12 +13,14 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 **`42.fr` + `Khan Academy` + `Y Combinator` + `Blackstone` + `Gurukul`**(ancient times) **= `Maverick Mandir`.**
 
 - Zero cost Education & Merit based admission.
-- Learning what will be relevent in 5-10 years from now instead of what was relevent 10-100 years ago.
+- Learning what will be relevent in 5-10 years from now instead of what was relevent 10-100 years ago. 
 - Gamification: Lessons through Video Games, Tournaments,Championship, Real Prizes, Scientic/historic Tours.
 - Learning in a environment designed for learning under the guidance of real guru with peers who are worthy rival & a good friend.
 - Guru: A polymath, true master(by action not degree) in at least one specific domain, democratically choosen, loved & respected by the students. The guru will be the dictator responsible for all aspect of that gurukul.
 - Gurukul: Physical Establishment of Maverick Mandir where students can collaborate, play & compete with other student, that is designed for learning and where students would love to be.
 - Exclusive community: Social media connecting the students of all the gurukul to collaborate & compete.
+- We know, that we can teach you to make money but until then the community will pay for your education and once you start making money, you start paying fees to be the part of the community & patron new members of the community.
+<!-- - We are essentially a investment firm and our product is a exclusive social media platform. -->
 
 ## Features
 
@@ -94,6 +99,19 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
     3. Their preferred gurukul is decided.
 - Get your maverick mandir id & you're good to go.
 
+> ## Pricings
+> 
+> ### Sustainers
+> - Once you've started making money.
+> - Min 1K/quarter.
+> 
+> ### Patron
+> - Once you've become financially independent.
+> - Min 10k/quarter.
+> 
+> ### Sponsor
+> - You genuinely believe in our cause.
+> - Min 100k/quarter.
 
 ## Our Inspirations
 
