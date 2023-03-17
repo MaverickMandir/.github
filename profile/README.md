@@ -2,7 +2,7 @@
 <img src="././logo.png" width="100">
 
 ## USP
-We are the only institution in the world who'll accept ZERO/ZIP/NADA amount of money until we've already helped you to start making money.
+We are the only institution in the world who'll accept ZERO/ZIP/NADA amount of money until we've already helped you start making money.
 
 ## Mision
 
@@ -101,17 +101,21 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 
 > ## Pricings
 > 
-> ### Sustainers
-> - Once you've started making money.
-> - Min 1K/quarter.
+>> ### Students
+>> - Once you are enrolled in a Program.
+>> - Free Forever.
+>
+>> ### Sustainers
+>> - Once you've started making money.
+>> - Min 1K/quarter.
 > 
-> ### Patron
-> - Once you've become financially independent.
-> - Min 10k/quarter.
+>> ### Patron
+>> - Once you've become financially independent.
+>> - Min 10k/quarter.
 > 
-> ### Sponsor
-> - You genuinely believe in our cause.
-> - Min 100k/quarter.
+>> ### Sponsor
+>> - You genuinely believe in our cause.
+>> - Min 100k/quarter.
 
 ## Our Inspirations
 
