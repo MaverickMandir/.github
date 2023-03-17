@@ -10,6 +10,7 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 **`42.fr` + `Khan Academy` + `Y Combinator` + `Blackstone` + `Gurukul`**(ancient times) **= `Maverick Mandir`.**
 
 - Zero cost Education & Merit based admission.
+- Learning what will be relevent in 5-10 years from now instead of what was relevent 10-100 years ago.
 - Gamification: Lessons through Video Games, Tournaments,Championship, Real Prizes, Scientic/historic Tours.
 - Learning in a environment designed for learning under the guidance of real guru with peers who are worthy rival & a good friend.
 - Guru: A polymath, true master(by action not degree) in at least one specific domain, democratically choosen, loved & respected by the students. The guru will be the dictator responsible for all aspect of that gurukul.
