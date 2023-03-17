@@ -1,4 +1,4 @@
-# <img src="././logo.png" width="25"> School cum Incubator (& VC)
+# <img src="././logo.png" width="30"> School cum Incubator (& VC)
 
 ## Mision
 
@@ -24,13 +24,51 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 - Maximised Real reward on successful attempt
 - Minimised Real pain on failed attempt
 
+## Overview
+
+> No classes, No rigid courses & No stupid rules. <br>
+> Only learning, programs & protocols.
+
+### **The Programs**
+
+| Program | Dimensions | Subjects/Themes | Objective | About |
+| ------- | ---------- | ------ | --------- | ----- |
+|**Prelims**|`Cognition` & `Comprehension`|`Language`, `Logic`, `Maths`|Boost Self-Esteem|Building a strong foundation of Critical thinking & Pattern recognition.|
+|**Digital Literacy**|`Communication` & `Rationality`|`Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding`|Boost Self-confidence|Buidling a strong foundation of effective articulation & creativity|
+|**Generalist**|`Showmanship` & `Frugality`|`Meme`, `Gene`, `Game`, `Cosmos`, `Solar System`, `Evolution`, `Human Civilization`, `Relegions & Philosophy`, `Presentation`, `Human Nature`, `Persuation`, `Time Management`, `Money Management`, `Bandwidth Management`|Finding ikigai/why.|Develop a general understanding of how society works, what was the past like & what needs to be done in order to build a better future.|
+|**Specialist**|`Humility` & `Competence`|`[Mastery in 2P Subject]`|Finding one's passion(Self-sabotaging passions are not considerd).|Develop skillsets based on their individual preferances, indulging such games/activity feels like play & not work.|
+|**Independence**|`Liberty` & `Wealth`|`Money`, `Market`, `Law`, `Politics`, `Business`|Attaining financial Independence.|Applying skillsets to gain money. Further using that money to build assets that will work for you to build wealth & hence making you financially independent.|
+|**Polymath**|`Courage` & `Empathy`|`History`, `Reality`, `Ethics`|Learning everything they need.|Preparing thyself in order to attain their Novel Desire.|
+|**Fellowship**|`Sacrifice` & `Generosity`|`[Practical & Apprenticeship]`|Gaining experience & Building reputation.|Working under a mentor who'll guide you & Preparing yourself for the war you need to win.|
+|**Startup**|`Impact`& `Service`|`[Action]`|Building/joining the organisation that is complementory to you & aligned with your vision.|Taking action to manifest the reality you want to live in.|
+
+### **The Protocols**
+
+| Protocols | Regulates | Encourages |
+| ------- | ---------- | ------ |
+|**Health**|`Sleep`, `Diet`, `NSDR`, `Adaptation`| Taking care of thyself & maintaing good health. |
+|**Dharma**|`Ethics & Morality`, `Integrity`, `Reciprocity`, `Oath`, `Discipline`| To be a good citizen, friend, family member, partner & overall good human being. |
+|**Wealth/Artha**|`Value Creation`, `Personal Finance`, `Investments`|To be a self-relient person.|
+|**Happiness**|`Fun`,`Purpose`,`Satisfaction`| A Life worth Living|
+|**Sovereignty**|`Freedom`,`Liberty`,`Kama(Pursuing a Novel Desire)`| To choose: what to do, when you want to do it, with whoever you choose to do it, whereever you decide to do it within the limits of civilizational values. |
+|**Wisdom**|`Veda(Knowledge)`|A living & vibrant citizens in the society|
+|**Generosity**|`Love`, `Respect`|A peaceful & compassionate citizen in the society|
+|**Character**|`Power`, `Reputation`, `Mastery`, `Mentality`, `Perspective`| Building character to influence others to help you achieve your novel vision. |
+
 ## Admission Process
 - As we don't make money by trapping students, our admission process is pretty starightforward, transparent, based on merit & charactor.
 - We choose students very carefully as we'll cover their expenses for next 5-10 years, we make sure they're worth it.
 - This consists of four steps and take around 2 quarters.
 
+### Step 0: Prerequisites
+- Able to discuss, express & exchange ideas and thoughts.
+- Foundational education is done. 
+    - Values and character.
+    - Ideal source: Family.
+    - Worst source: Fake Teachers who teachs for money & don't really care about the child.
+
 ### Step 1: The Prelims Program
-- See program section below to find out more about this program.
+- See program section above to find out more about this program.
 - Top 1000 from prelims leaderboard will be shortlisted for step 2 every quarter.
 
 ### Step 2: Apply
@@ -46,7 +84,7 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 - Usually around 100-250 students are enrolled Literacy program every quarter.
 
 ### Step 4: Digital Literacy Program
-- See program section below to find out more about this program.
+- See program section above to find out more about this program.
 - This phase takes time. They're allowed to take as much time as they need. 
 - Students get fimiliar to our methods and 
     1. if they choose to continue, 
@@ -54,14 +92,6 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
     3. Their preferred gurukul is decided.
 - Get your maverick mandir id & you're good to go.
 
-## Roadmap
-
-- 2021: Ideation & Prototype development.
-- 2022: Alpha launch & further development.
-- 2023: Beta launch & product market fit analysis.
-- By 2024: Version 1 Launch.
-- By 2025: First operational Gurukul campus.
-- By 2035: Establishing 10 Modern aesthetically gorgeous Gurukul where students would love be there & study.
 
 ## Our Inspirations
 
@@ -70,36 +100,6 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 - [Y Combinator](https://www.ycombinator.com/)
 - [Blackstone](https://www.blackstone.com/)
 
-## Overview
-
-> No classes, No rigid courses & No stupid rules. <br>
-> Only learning, programs & protocols.
-
-### The Programs
-
-| Program | Dimensions | Subjects/Themes | Objective | About |
-| ------- | ---------- | ------ | --------- | ----- |
-|**Prelims**|`Cognition` & `Comprehension`|`Language`, `Logic`, `Maths`|Boost Self-Esteem|Building a strong foundation of Critical thinking & Pattern recognition.|
-|**Digital Literacy**|`Communication` & `Rationality`|`Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding`|Boost Self-confidence|Buidling a strong foundation of effective articulation & creativity|
-|**Generalist**|`Showmanship` & `Frugality`|`Meme`, `Gene`, `Game`, `Cosmos`, `Solar System`, `Evolution`, `Human Civilization`, `Relegions & Philosophy`, `Presentation`, `Human Nature`, `Persuation`, `Time Management`, `Money Management`, `Bandwidth Management`|Finding ikigai/why.|Develop a general understanding of how society works, what was the past like & what needs to be done in order to build a better future.|
-|**Specialist**|`Humility` & `Competence`|`[Mastery in 2P Subject]`|Finding one's passion(Self-sabotaging passions are not considerd).|Develop skillsets based on their individual preferances, indulging such games/activity feels like play & not work.|
-|**Independence**|`Liberty` & `Wealth`|`Money`, `Market`, `Law`, `Politics`, `Business`|Attaining financial Independence.|Applying skillsets to gain money. Further using that money to build assets that will work for you to build wealth & hence making you financially independent.|
-|**Polymath**|`Courage` & `Empathy`|`History`, `Reality`, `Ethics`|Learning everything they need.|Preparing thyself in order to attain their Novel Desire.|
-|**Fellowship**|`Sacrifice` & `Generosity`|`[Practical & Apprenticeship]`|Gaining experience & Building reputation.|Working under a mentor who'll guide you & Preparing yourself for the war you need to win.|
-|**Startup**|`Impact`& `Service`|`[Action]`|Building/joining the organisation that is complementory to you & aligned with your vision.|Taking action to manifest the reality you want to live in.|
-
-### Protocols
-
-| Protocols | Regulates | Encourages |
-| ------- | ---------- | ------ |
-|**Health**|`Sleep`, `Diet`, `NSDR`, `Adaptation`| Taking care of thyself & maintaing good health. |
-|**Dharma**|`Ethics & Morality`, `Integrity`, `Reciprocity`, `Oath`, `Discipline`| To be a good citizen, friend, family member, partner & overall good human being. |
-|**Wealth/Artha**|`Value Creation`, `Personal Finance`, `Investments`|To be a self-relient person.|
-|**Happiness**|`Fun`,`Purpose`,`Satisfaction`| A Life worth Living|
-|**Sovereignty**|`Freedom`,`Liberty`,`Kama(Pursuing a Novel Desire)`| To choose: what to do, when you want to do it, with whoever you choose to do it, whereever you decide to do it within the limits of civilizational values. |
-|**Wisdom**|`Veda(Knowledge)`|A living & vibrant citizens in the society|
-|**Generosity**|`Love`, `Respect`|A peaceful & compassionate citizen in the society|
-|**Character**|`Power`, `Reputation`, `Mastery`, `Mentality`, `Perspective`| Building character to influence others to help you achieve your novel vision. |
 
 ## FAQs
 
