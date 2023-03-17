@@ -1,4 +1,4 @@
-# <img src="././logo.png" width="50"> School cum Incubator (& VC)
+# <img src="././logo.png" width="25"> School cum Incubator (& VC)
 
 ## Mision
 
