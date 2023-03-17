@@ -1,6 +1,6 @@
-![Logo](https://github.com/MaverickMandir/.github/blob/main/logo.png?raw=true)
-
 # School cum Incubator (& VC)
+
+![Logo](https://github.com/MaverickMandir/.github/blob/main/logo.png?raw=true)
 
 ## Mision
 
@@ -26,6 +26,36 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 - Maximised Real reward on successful attempt
 - Minimised Real pain on failed attempt
 
+## Admission Process
+- As we don't make money by trapping students, our admission process is pretty starightforward, transparent, based on merit & charactor.
+- We choose students very carefully as we'll cover their expenses for next 5-10 years, we make sure they're worth it.
+- This consists of four steps and take around 2 quarters.
+
+### Step 1: The Prelims Program
+- See program section below to find out more about this program.
+- Top 1000 from prelims leaderboard will be shortlisted for step 2 every quarter.
+
+### Step 2: Apply
+- Shortlisted Students along with their Parents need to fill up the application form.
+- We value character above everything else and character is formed in early childhood and character is refined with habits. We need to know about the background they grew up.
+- This step is strict for just reasons, we eliminate based on slightest red flags. If your childrens/siblings are selected, you'd want they're safe from physical & mental torture. This process ensure that, it keeps out malecious individuals & bullies. We believe even one bad apple is too many.
+- Informations would be verified if needed.
+- Around one third of students will be shortlisted for step 3.
+
+### Step 3: Interview
+- Character Analysis
+- Mentors are paired up based on the student & parent's preferences.
+- Usually around 100-250 students are enrolled Literacy program every quarter.
+
+### Step 4: Digital Literacy Program
+- See program section below to find out more about this program.
+- This phase takes time. They're allowed to take as much time as they need. 
+- Students get fimiliar to our methods and 
+    1. if they choose to continue, 
+    2. if parents support their decisions,
+    3. Their preferred gurukul is decided.
+- Get your maverick mandir id & you're good to go.
+
 ## Roadmap
 
 - 2021: Ideation & Prototype development.
@@ -42,12 +72,17 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 - [Y Combinator](https://www.ycombinator.com/)
 - [Blackstone](https://www.blackstone.com/)
 
-## The Programs
+> ## Overview
+
+> No classes, No rigid courses & No stupid rules.
+> Only learning, programs & protocols.
+
+### The Programs
 
 | Program | Dimensions | Subjects/Themes | Objective | About |
 | ------- | ---------- | ------ | --------- | ----- |
 |**Prelims**|`Cognition` & `Comprehension`|`Language`, `Logic`, `Maths`|Boost Self-Esteem|Building a strong foundation of Critical thinking & Pattern recognition.|
-|**Literacy**|`Communication` & `Rationality`|`Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding`|Boost Self-confidence|Buidling a strong foundation of effective articulation & creativity|
+|**Digital Literacy**|`Communication` & `Rationality`|`Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding`|Boost Self-confidence|Buidling a strong foundation of effective articulation & creativity|
 |**Generalist**|`Showmanship` & `Frugality`|`Meme`, `Gene`, `Game`, `Cosmos`, `Solar System`, `Evolution`, `Human Civilization`, `Relegions & Philosophy`, `Presentation`, `Human Nature`, `Persuation`, `Time Management`, `Money Management`, `Bandwidth Management`|Finding ikigai/why.|Develop a general understanding of how society works, what was the past like & what needs to be done in order to build a better future.|
 |**Specialist**|`Humility` & `Competence`|`[Mastery in 2P Subject]`|Finding one's passion(Self-sabotaging passions are not considerd).|Develop skillsets based on their individual preferances, indulging such games/activity feels like play & not work.|
 |**Independence**|`Liberty` & `Wealth`|`Money`, `Market`, `Law`, `Politics`, `Business`|Attaining financial Independence.|Applying skillsets to gain money. Further using that money to build assets that will work for you to build wealth & hence making you financially independent.|
@@ -55,7 +90,8 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 |**Fellowship**|`Sacrifice` & `Generosity`|`[Practical & Apprenticeship]`|Gaining experience & Building reputation.|Working under a mentor who'll guide you & Preparing yourself for the war you need to win.|
 |**Startup**|`Impact`& `Service`|`[Action]`|Building/joining the organisation that is complementory to you & aligned with your vision.|Taking action to manifest the reality you want to live in.|
 
-## Protocols
+### Protocols
+
 | Protocols | Regulates | Encourages |
 | ------- | ---------- | ------ |
 |**Health**|`Sleep`, `Diet`, `NSDR`, `Adaptation`| Taking care of thyself & maintaing good health. |
@@ -65,7 +101,7 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 |**Sovereignty**|`Freedom`,`Liberty`,`Kama(Pursuing a Novel Desire)`| To choose: what to do, when you want to do it, with whoever you choose to do it, whereever you decide to do it within the limits of civilizational values. |
 |**Wisdom**|`Veda(Knowledge)`|A living & vibrant citizens in the society|
 |**Generosity**|`Love`, `Respect`|A peaceful & compassionate citizen in the society|
-|**Influence**|`Power`, `Mastery`|To improve governance in society and enhance prosparity.|
+|**Character**|`Power`, `Reputation`, `Mastery`, `Mentality`, `Perspective`| Building character to influence others to help you achieve your novel vision. |
 
 ## FAQs
 
