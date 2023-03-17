@@ -41,7 +41,7 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 | Program | Dimensions | Subjects/Themes | Objective | About |
 | ------- | ---------- | ------ | --------- | ----- |
 |**Prelims**|`Cognition` & `Comprehension`|`Language`, `Logic`, `Maths`|Boost Self-Esteem|Building a strong foundation of Critical thinking & Pattern recognition.|
-|**Digital Literacy**|`Communication` & `Rationality`|`Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding & Promt Engineering`|Boost Self-confidence|Buidling a strong foundation of effective articulation & creativity|
+|**Digital Literacy**|`Communication` & `Rationality`|`Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding & Promt Engineering`, `Financial Education`|Boost Self-confidence|Buidling a strong foundation of effective articulation & creativity|
 |**Generalist**|`Showmanship` & `Frugality`|`Meme`, `Gene`, `Game`, `Cosmos`, `Solar System`, `Evolution`, `Human Civilization`, `Relegions & Philosophy`, `Presentation`, `Human Nature`, `Persuation`, `Time Management`, `Money Management`, `Bandwidth Management`|Finding ikigai/why.|Develop a general understanding of how society works, what was the past like & what needs to be done in order to build a better future.|
 |**Specialist**|`Humility` & `Competence`|`[Mastery in 2P Subject]`|Finding one's passion(Self-sabotaging passions are not considerd).|Develop skillsets based on their individual preferances, indulging such games/activity feels like play & not work.|
 |**Independence**|`Liberty` & `Wealth`|`Money`, `Market`, `Law`, `Politics`, `Business`|Attaining financial Independence.|Applying skillsets alongside renting time & bandwidth for money. Further using that money to buy assets that will build you wealth.|
@@ -57,7 +57,7 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 |**Dharma**|`Ethics & Morality`, `Integrity`, `Reciprocity`, `Oath`, `Discipline`| To be a good citizen, friend, family member, partner & overall good human being. |
 |**Wealth/Artha**|`Value Creation`, `Personal Finance`, `Investments`|To be a self-relient person.|
 |**Happiness**|`Fun`,`Purpose`,`Satisfaction`| A Life worth Living|
-|**Sovereignty**|`Freedom`,`Liberty`,`Kama(Pursuing a Novel Desire)`| To choose: what to do, when you want to do it, with whoever you choose to do it, whereever you decide to do it within the limits of civilizational values. |
+|**Sovereignty**|`Freedom`, `Liberty`, `Kama(Pursuing a Novel Desire)`| To choose: what to do, when you want to do it, with whoever you choose to do it, whereever you decide to do it within the limits of civilizational values. |
 |**Wisdom**|`Veda(Knowledge)`|A living & vibrant citizens in the society|
 |**Generosity**|`Love`, `Respect`|A peaceful & compassionate citizen in the society|
 |**Character**|`Power`, `Reputation`, `Mastery`, `Mentality`, `Perspective`| Building character to influence others to help you achieve your novel vision. |
