@@ -20,10 +20,12 @@ Reviving Vedic Schooling with a blend of Modern student-centric schooling framew
 - Gurukul: Physical Establishment of Maverick Mandir where students can collaborate, play & compete with other student, that is designed for learning and where students would love to be.
 - Exclusive community: Social media connecting the students of all the gurukul to collaborate & compete.
 - We know, that we can teach you to make money but until then the community will pay for your education and once you start making money, you start paying fees to be the part of the community & patron new members of the community.
-<!-- - We are essentially a investment firm and our product is a exclusive social media platform. -->
+<!-- - We are essentially a social media company that invest in the future. -->
 
 ## Features
 
+- Ultralearning Project Based
+<!-- https://www.youtube.com/watch?v=J2JGiJNUsD4 -->
 - Mastery Based Learning
 - Project Based Pedegogy
 - Personalised & Gamified Teaching
