@@ -6,7 +6,7 @@ We are the only institution in the world who'll accept ZERO/ZIP/NADA amount of m
 
 ## Mision
 
-Reviving Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
+Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
 
 ## Vision
 
