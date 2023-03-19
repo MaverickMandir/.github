@@ -64,6 +64,14 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 |**Generosity**|`Love`, `Respect`|A peaceful & compassionate citizen in the society|
 |**Character**|`Power`, `Reputation`, `Mastery`, `Mentality`, `Perspective`| Building character to influence others to help you achieve your novel vision. |
 
+## Code of Conduct
+1. You must follow the laws & should only follow the rules (of the spacetime you are in) that benifits society or you.
+2. You shall choose to follow the protocols relegiously.
+3. You shall not allow any authority over truth.
+4. You shall choose to integrate DharmoArthoKamoMoksha into your philosophy.
+5. You shall be authentic & have integrity.
+6. You shall choose to work hard in the smartest way.
+
 ## Admission Process
 - As we don't make money by trapping students, our admission process is pretty starightforward, transparent, based on merit & charactor.
 - We choose students very carefully as we'll cover their expenses for next 5-10 years, we make sure they're worth it.
