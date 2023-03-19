@@ -1,8 +1,8 @@
-# School cum Incubator (& VC)
+# The School for life: School cum Incubator (& VC)
 <img src="././logo.png" width="100">
 
 ## USP
-We are the only institution in the world who'll accept ZERO/ZIP/NADA amount of money until we've already helped you start making money.
+We are the only institution in the world who'll accept ZERO/ZIP/NADA amount of money until we've already helped the students start making money.
 
 ## Mision
 
