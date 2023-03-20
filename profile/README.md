@@ -65,12 +65,18 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 |**Character**|`Power`, `Reputation`, `Mastery`, `Mentality`, `Perspective`| Building character to influence others to help you achieve your novel vision. |
 
 ## Code of Conduct
-1. You must follow the laws & should only follow the rules (of the spacetime you are in) that benifits society or you.
-2. You shall choose to follow the protocols relegiously.
-3. You shall not allow any authority over truth.
-4. You shall choose to integrate DharmoArthoKamoMoksha into your philosophy.
-5. You shall be authentic & have integrity.
-6. You shall choose to work hard in the smartest way.
+<!-- An elaborated explaination for every coc will be given & told users to agree  -->
+0. I take an oath to be authentic & have integrity.
+1. I choose to integrate Dharmic values into my value system & assume responsibility for my family.
+2. I will practice the protocols relegiously.
+3. I will make at least a little progress every day.
+4. I renounce mediocrity & dare to dream seemingly impossible.
+5. I will work hard in the smartest way.
+6. I will not give up if there is a slightest chance of turning everything in the desired direction.
+7. I will gather the courage to face pure catastrophe & earn the creadibility to never face that catastrophe.
+8. I will not allow any authority over truth to dictate my decision.
+9. I will follow the laws & voluntarily follow the rules (of the spacetime you are in & that rule must benefit society or you).
+
 
 ## Admission Process
 - As we don't make money by trapping students, our admission process is pretty starightforward, transparent, based on merit & charactor.
