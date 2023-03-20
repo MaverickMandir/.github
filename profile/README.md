@@ -1,8 +1,8 @@
-# A community dedicated to invest in future.
-<img src="././logo.png" width="100">
+<img src="././logo.png" width="100" alt="Logo">
 
-## What do we do?
-We facilitate free education for deserving students who have potential & drive to do something significant (Primarily in the domain of longivity).
+# A community dedicated to invest in future.
+<!-- ## What do we do? Detailed info -->
+We facilitate free education for deserving students who have potential & drive to do solve to big consequential issues of human civilization(for example, longivity, synthetic biology etc.).
 
 ## Mision
 Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
