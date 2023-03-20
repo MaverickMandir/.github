@@ -1,11 +1,10 @@
-# The School for life: School cum Incubator (& VC)
+# A community dedicated to invest in future.
 <img src="././logo.png" width="100">
 
-## USP
-We are the only institution in the world who'll accept ZERO/ZIP/NADA amount of money until we've already helped the students start making money.
+## What do we do?
+We facilitate free education for deserving students who have potential & drive to do something significant (Primarily in the domain of longivity).
 
 ## Mision
-
 Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
 
 ## Vision
