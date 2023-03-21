@@ -3,13 +3,14 @@
 
 <img src="././logo.png" width="100" alt="Logo">
 
-# A community dedicated to invest in future to promote peace & prosperity of the nation.
+# A dedicated community to invest in future to promote peace & prosperity of the nation.
 <!-- ## What do we do? Detailed info -->
 We facilitate free education for deserving students who have potential & drive to do solve to big consequential issues of human civilization(for example, longivity, synthetic biology etc.).
 
 <!--
 Details
 A twitter like social network
+First postpaid school.
 -->
 
 ## Mission
