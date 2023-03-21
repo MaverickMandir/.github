@@ -1,3 +1,6 @@
+> “Where there is righteousness in the heart, there is beauty in the character. When there is beauty in the character, there is harmony in the home. When there is harmony in the home, there is order in the nation. When there is order in the nation, there is peace in the world.”<br>
+> – A.P.J. Abdul Kalam
+
 <img src="././logo.png" width="100" alt="Logo">
 
 # A community dedicated to invest in future.
@@ -19,8 +22,8 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 - Zero cost Education & Merit based admission.
 - Get Educated, start earning money and buy the degree if needed instead of wasting time doing useless assignments & passing stupid exams. (Don't act like, you're hearing this for first time, buying degree is an open secret & that is thriving industry.)
 - Learning what will be relevent in 5-10 years from now instead of what was relevent 10-100 years ago. 
-- Gamification: Lessons through Video Games, Tournaments,Championship, Real Prizes, Scientic/historic Tours, Events, VideoBooks etc.
-- Learning in a environment designed for learning under the guidance of real guru with peers who are worthy rival & a good friend.
+- Gamification: Lessons through Video Games,Debates, Tournaments,Championships with real prizes, Scientic/historic Tours, Events, VideoBooks etc.
+- Learning in a environment designed for learning under the guidance of real guru with peers who are worthy rival & a good critic cum friend.
 - Guru: A polymath, true master(by action not degree) in at least one specific domain, democratically choosen, loved & respected by the students. The guru will be the dictator responsible for all aspect of that gurukul.
 - Gurukul: Physical Establishment of Maverick Mandir where students can collaborate, play & compete with other student, that is designed for learning and where students would love to be.
 - Exclusive community: Social media connecting the students of all the gurukul to collaborate & compete.
@@ -41,8 +44,10 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 ## Overview
 
 > No classes, No rigid courses & No stupid rules. <br>
-> Only learning, programs & protocols.
+> Only learning, programs & protocols. <br>
 
+> “Talent hits a target no one else can hit; Genius hits a target no one else can see.”<br>
+> – Arthur Schopenhauer.
 ### **The Programs**
 
 | Program | Dimensions | Subjects/Themes | Objective | About |
@@ -74,7 +79,7 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 0. I take an oath to be authentic & have integrity.
 1. I choose to integrate Dharmic values into my value system & assume responsibility for my family.
 2. I will practice the protocols relegiously.
-3. I will make at least a little progress every day.
+3. I will make at least a little progress every day & be my own best critic.
 4. I renounce mediocrity & dare to dream seemingly impossible.
 5. I will work hard in the smartest way.
 6. I will not give up if there is a slightest chance of turning everything in the desired direction.
