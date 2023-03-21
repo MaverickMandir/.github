@@ -3,7 +3,7 @@
 
 <img src="././logo.png" width="100" alt="Logo">
 
-# A community dedicated to invest in future.
+# A community dedicated to invest in future to promote peace & prosparity.
 <!-- ## What do we do? Detailed info -->
 We facilitate free education for deserving students who have potential & drive to do solve to big consequential issues of human civilization(for example, longivity, synthetic biology etc.).
 
@@ -55,7 +55,7 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 |**Prelims**|`Cognition` & `Comprehension`|`Language`, `Logic`, `Maths`|Boost Self-Esteem|Building a strong foundation of Critical thinking & Pattern recognition.|
 |**Digital Literacy**|`Communication` & `Rationality`|`Verbal`, `Non-verbal`, `Typing`, `Editing`, `Coding & Promt Engineering`, `Financial Education`|Boost Self-confidence|Buidling a strong foundation of effective articulation & creativity|
 |**Generalist**|`Showmanship` & `Frugality`|`Meme`, `Gene`, `Game`, `Cosmos`, `Solar System`, `Evolution`, `Human Civilization`, `Relegions & Philosophy`, `Presentation`, `Human Nature`, `Persuation`, `Time Management`, `Money Management`, `Bandwidth Management`|Finding ikigai/why.|Develop a general understanding of how society works, what was the past like & what needs to be done in order to build a better future.|
-|**Specialist**|`Humility` & `Competence`|`[Mastery in 2P Subject]`|Develop telent in a specific domain & generate first principle insight|Develop skillsets based on their individual preferances, indulging such games/activity feels like play & not work.|
+|**Specialist**|`Humility` & `Competence`|`[Mastery in self-choosen subject]`; Example: `Investing`, `Longivity`, `Cosmology`, `Evolution`, `Human Nature`, `Administration`, `Sales`, `Finance`, etc.|Develop telent in a specific domain & generate first principle insight|Develop skillsets based on their individual preferances, indulging such games/activity feels like play & not work.|
 |**Independence**|`Liberty` & `Wealth`|`Money`, `Market`, `Law`, `Politics`, `Business`|Attaining financial Independence.|Applying skillsets alongside renting time & bandwidth for money. Further using that money to buy assets that will build you wealth.|
 |**Polymath**|`Courage` & `Empathy`|`History`, `Reality`, `Ethics`|Learning everything they need to develop true genius & generate zeroth principle insight|Preparing yourself in order to attain your Novel Desires.|
 |**Fellowship**|`Sacrifice` & `Generosity`|`[Practical & Apprenticeship]`|Gaining experience & Building reputation.|Working under a mentor who'll guide you & Preparing yourself for the war you need to win.|
