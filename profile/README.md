@@ -4,7 +4,12 @@
 <!-- ## What do we do? Detailed info -->
 We facilitate free education for deserving students who have potential & drive to do solve to big consequential issues of human civilization(for example, longivity, synthetic biology etc.).
 
-## Mision
+<!--
+Details
+A twitter like social network
+-->
+
+## Mission
 Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
 
 ## Vision
@@ -19,7 +24,7 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 - Gurukul: Physical Establishment of Maverick Mandir where students can collaborate, play & compete with other student, that is designed for learning and where students would love to be.
 - Exclusive community: Social media connecting the students of all the gurukul to collaborate & compete.
 - We know, that we can teach you to make money but until then the community will pay for your education and once you start making money, you start paying fees to be the part of the community & patron new members of the community.
-<!-- - We are essentially a social media company that invest in the future. -->
+<!-- We are essentially a exclusive social network that invest in the future. -->
 
 ## Features
 
