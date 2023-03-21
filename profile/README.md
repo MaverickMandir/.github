@@ -17,6 +17,7 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 **`42.fr` + `Khan Academy` + `Y Combinator` + `Blackstone` + `Gurukul`**(ancient times) **= `Maverick Mandir`.**
 
 - Zero cost Education & Merit based admission.
+- Get Educated, start earning money and buy the degree if needed instead of wasting time doing useless assignments & passing stupid exams. (Don't act like, you're hearing this for first time, buying degree is an open secret & that is thriving industry.)
 - Learning what will be relevent in 5-10 years from now instead of what was relevent 10-100 years ago. 
 - Gamification: Lessons through Video Games, Tournaments,Championship, Real Prizes, Scientic/historic Tours, Events, VideoBooks etc.
 - Learning in a environment designed for learning under the guidance of real guru with peers who are worthy rival & a good friend.
