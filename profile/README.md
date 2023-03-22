@@ -3,7 +3,7 @@
 
 <img src="././logo.png" width="100" alt="Logo">
 
-# A dedicated community to invest in future to promote peace & prosperity of the nation.
+# A community commited to Investing in future & create quality entrepreneur & statesperson.
 <!-- ## What do we do? Detailed info -->
 We facilitate free education for deserving students who have potential & drive to do solve to big consequential issues of human civilization(for example, longivity, synthetic biology etc.).
 
