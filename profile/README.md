@@ -1,3 +1,4 @@
+## Rethinking education, Reviving Vedic methodologies.
 > “Where there is righteousness in the heart, there is beauty in the character. When there is beauty in the character, there is harmony in the home. When there is harmony in the home, there is order in the nation. When there is order in the nation, there is peace in the world.”<br>
 > – A.P.J. Abdul Kalam
 
@@ -15,6 +16,21 @@ First postpaid school.
 
 ## Mission
 Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
+
+## Curriculum
+### Literacy(साक्षरता):
+- Cognition: Pattern recognition, mental ability, etc.
+- Computation: Maths, methodical thinking, planning & strategizing, etc.
+- Comprehension: Language, clarity of thought, precise articulation & writing(sophisticated form of thinking which is structured.), etc. 
+
+### Personality/Self Development(चरित्रविकासः):
+**Question Everything! One thing at a time & figure things out for yourself! In order to be immune to indoctrination.**
+
+### Practial Education(शिक्षा):
+- Finance: How money works?
+- Polity: How society works?
+- Skills: How to increase your self-worth?
+
 
 ## Vision
 
