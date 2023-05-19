@@ -26,11 +26,14 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 ### Personality/Self Development(चरित्रविकासः):
 **Question Everything! One thing at a time & figure things out for yourself! In order to be immune to indoctrination.**
 
-### Practial Education(शिक्षा):
+### Education(शिक्षा):
 - Fitness: How to stay healthy?
 - Finance: How money works?
 - Polity: How society works?
-- Skills: How to increase your self-worth?
+- Intuition: How to make decisions in this age of infinite leverage?
+
+### Skill Development (कौशलविकासं):
+**Improve upon what you already enjoy & develop a skillset in order be useful to humanity.**
 
 
 ## Vision
