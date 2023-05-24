@@ -5,7 +5,7 @@
 
 # A community commited to Investing in future & training future entrepreneur & statesperson.
 <!-- ## What do we do? Detailed info -->
-We aspire facilitate free education for deserving students who have potential, courage & drive to work on issues such as longivity, computational intelligence, synthetic biology etc.
+We aspire to facilitate free of cost education for deserving students who have potential, courage & drive to work on humanitarian issues such as longivity, sustainable living & energy, computational intelligence, synthetic biology etc.
 
 <!--
 Details
@@ -17,6 +17,8 @@ First postpaid school.
 Modernize, decolonize, decontaminate & revive aspects of Vedic Schooling(Such as discussion, debate etc.) with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
 
 ## Curriculum
+> We asked ourself one simple question, what would our ideal curriculum would be like given we wish to be a lifelong learner?
+
 ### Literacy(साक्षरता):
 - Cognition: Pattern recognition, mental ability, etc.
 - Computation: Maths, methodical thinking, planning & strategizing, etc.
