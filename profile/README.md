@@ -1,12 +1,11 @@
 ## Rethinking education, Reviving Vedic methodologies.
 > “Where there is righteousness in the heart, there is beauty in the character. When there is beauty in the character, there is harmony in the home. When there is harmony in the home, there is order in the nation. When there is order in the nation, there is peace in the world.”<br>
 > – A.P.J. Abdul Kalam
-
-<img src="././logo.png" width="100" alt="Logo">
+<!-- <img src="././logo.png" width="100" alt="Logo"> -->
 
 # A community commited to Investing in future & training future entrepreneur & statesperson.
 <!-- ## What do we do? Detailed info -->
-We facilitate free education for deserving students who have potential & drive to do solve to big consequential issues of human civilization(for example, longivity, synthetic biology etc.).
+We aspire facilitate free education for deserving students who have potential, courage & drive to work on issues such as longivity, computational intelligence, synthetic biology etc.
 
 <!--
 Details
@@ -15,7 +14,7 @@ First postpaid school.
 -->
 
 ## Mission
-Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
+Modernize, decolonize, decontaminate & revive aspects of Vedic Schooling(Such as discussion, debate etc.) with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
 
 ## Curriculum
 ### Literacy(साक्षरता):
@@ -41,11 +40,10 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 
 
 ## Vision
-
-**`42.fr` + `Khan Academy` + `Y Combinator` + `Blackstone` + `Gurukul`**(ancient times) **= `Maverick Mandir`.**
+<!-- **`42.fr` + `Khan Academy` + `Y Combinator` + `Blackstone` + `Gurukul`**(ancient times) **= `Maverick Mandir`.** -->
 
 - Zero cost Education & Merit based admission.
-- Get Educated, start earning money and buy the degree if needed instead of wasting time doing useless assignments & passing stupid exams. (Don't act like, you're hearing this for first time, buying degree is an open secret & that is thriving industry.)
+- Get Educated, start earning money and buy the degree if needed instead of wasting time doing useless assignments & passing stupid exams. (Don't act like, you're hearing this for first time, buying degree is an open secret & a thriving industry.)
 - Learning what will be relevent in 5-10 years from now instead of what was relevent 10-100 years ago. 
 - Gamification: Lessons through Video Games,Debates, Tournaments,Championships with real prizes, Scientic/historic Tours, Events, VideoBooks etc.
 - Learning in a environment designed for learning under the guidance of real guru with peers who are worthy rival & a good critic cum friend.
@@ -92,8 +90,8 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 | ------- | ---------- | ------ |
 |**Health**|`Sleep`, `Diet`, `NSDR`, `Adaptation`| Taking care of thyself & maintaing good health. |
 |**Dharma**|`Ethics & Morality`, `Integrity`, `Reciprocity`, `Oath`, `Discipline`| To be a good citizen, friend, family member, partner & overall good human being. |
-|**Wealth/Artha**|`Value Creation`, `Personal Finance`, `Investments`|To be a self-relient person.|
-|**Happiness**|`Fun`,`Purpose`,`Satisfaction`| A Life worth Living|
+|**Wealth/Artha**|`Value Creation`, `Personal Finance`, `Investments`|To be a self-relient person by accumulating wealth(three forms: money, time & bandwidth).|
+|**Happiness/Kama**|`Fun`,`Purpose`,`Satisfaction`| A Life worth Living|
 |**Sovereignty**|`Freedom`, `Liberty`, `Kama(Pursuing a Novel Desire)`| To choose: what to do, when you want to do it, with whoever you choose to do it, whereever you decide to do it within the limits of civilizational values. |
 |**Wisdom**|`Veda(Knowledge)`|A living & vibrant citizens in the society|
 |**Generosity**|`Love`, `Respect`|A peaceful & compassionate citizen in the society|
@@ -101,6 +99,7 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 
 ## Code of Conduct
 <!-- An elaborated explaination for every coc will be given & told users to agree  -->
+### Maverick Mandir constitution is under development, until then:
 0. I take an oath to be authentic & have integrity.
 1. I choose to integrate Dharmic values into my value system & assume responsibility for my family.
 2. I will practice the protocols relegiously.
@@ -132,7 +131,8 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 ### Step 2: Apply
 - Shortlisted Students along with their Parents need to fill up the application form.
 - We value character above everything else and character is formed in early childhood and character is refined with habits. We need to know about the background they grew up.
-- This step is strict for just reasons, we eliminate based on slightest red flags. If your childrens/siblings are selected, you'd want they're safe from physical & mental torture. This process ensure that, it keeps out malecious individuals & bullies. We believe even one bad apple is too many.
+- Ideal age group is: 14 to 25.
+- This step is strict for just reasons, we eliminate based on slightest red flags. If your childrens/siblings are selected, you'd want they're safe from physical & mental abuses. This process ensure that, it keeps out malecious individuals & bullies. We believe even one bad apple is too many.
 - Informations would be verified if needed.
 - Around one third of students will be shortlisted for step 3.
 
@@ -180,7 +180,7 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 
 ### How much will Mavericks cost?
 
-We do not claim to be affordable, Even though we'll take zero fees in terms of money from parents, the price both students & parents have to pay in terms of time & bandwidth will be significant but we assure you, it'll be worth it. Also, parents have to invest in Modern essential pieces of equipment such as a laptop/desktop, a VR headset/Projector setup etcetera of the student's choice.
+We do not claim to be affordable. Even though we'll take zero fees in terms of money from parents, the price both students & parents have to pay in terms of time & bandwidth, will be significant but we assure you, it'll be worth it. Also, parents have to invest in Modern essential pieces of equipment such as a laptop/desktop, a VR headset/Projector setup etcetera of the student's choice.
 
 ### Why Mavericks is a school cum incubator(& VC) instead of only a school?
 
