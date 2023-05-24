@@ -17,12 +17,26 @@ First postpaid school.
 Modernize, decolonize, decontaminate & revive aspects of Vedic Schooling(Such as discussion, debate etc.) with a blend of Modern student-centric schooling framework like homeschooling, unschooling, schooling in Nordic countries & also that is Fully equipped with 21st-century tools & techniques.
 
 ## Curriculum
-> We asked ourself one simple question, what would our ideal curriculum would be like given we wish to be a lifelong learner?
+> We asked ourself one simple question, how our ideal curriculum would be like given we wish to be a lifelong learner?
 
 ### Literacy(साक्षरता):
-- Cognition: Pattern recognition, mental ability, etc.
-- Computation: Maths, methodical thinking, planning & strategizing, etc.
-- Comprehension: Language, clarity of thought, precise articulation & writing(sophisticated form of thinking which is structured.), etc. 
+- Cognition: 
+    - Pattern recognition
+    - Using abstraction
+    - Reasoning ability, etc.
+- Intelligence: 
+    - Mathematical concepts
+    - Computation
+    - Methodical thinking
+    - Planning & strategizing
+    - Scientic thinking, etc.
+- Comprehension: 
+    - Language
+        - Sanskrit: The artificial/perfected language.
+        - Prakrit: The natural/vernacular language.
+    - Clarity of thought
+    - Precise articulation & writing(sophisticated form of thinking which is structured.)
+    - Understanding(able to see the meme from multiple perspective) of textual, audio and visuals inputs. 
 
 ### Personality/Self Development(चरित्रविकासः):
 **Question Everything! One thing at a time & figure things out for yourself! In order to be immune to indoctrination.**
@@ -44,9 +58,9 @@ Modernize, decolonize, decontaminate & revive aspects of Vedic Schooling(Such as
 ## Vision
 <!-- **`42.fr` + `Khan Academy` + `Y Combinator` + `Blackstone` + `Gurukul`**(ancient times) **= `Maverick Mandir`.** -->
 
+- Learning what will be relevent in 5-10 years from now instead of what was relevent 10-100 years ago. 
 - Zero cost Education & Merit based admission.
 - Get Educated, start earning money and buy the degree if needed instead of wasting time doing useless assignments & passing stupid exams. (Don't act like, you're hearing this for first time, buying degree is an open secret & a thriving industry.)
-- Learning what will be relevent in 5-10 years from now instead of what was relevent 10-100 years ago. 
 - Gamification: Lessons through Video Games,Debates, Tournaments,Championships with real prizes, Scientic/historic Tours, Events, VideoBooks etc.
 - Learning in a environment designed for learning under the guidance of real guru with peers who are worthy rival & a good critic cum friend.
 - Guru: A polymath, true master(by action not degree) in at least one specific domain, democratically choosen, loved & respected by the students. The guru will be the dictator responsible for all aspect of that gurukul.
