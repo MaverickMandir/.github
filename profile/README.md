@@ -30,10 +30,14 @@ Modernize, decolonize, decontaminate & revive Vedic Schooling with a blend of Mo
 - Fitness: How to stay healthy?
 - Finance: How money works?
 - Polity: How society works?
-- Intuition: How to make decisions in this age of infinite leverage?
+- Intuition: How to make decisions in this age of infinite leverage & develop specific knowledge?
 
 ### Skill Development (कौशलविकासं):
 **Improve upon what you already enjoy & develop a skillset in order be useful to humanity.**
+
+### Medium of study (अध्ययनस्य माध्यमम्):
+- Sanskrit will be used as the first language as it disallows hypocrisy to hide in the vagueness. It is precise, exact, and straightforward. 
+- A Prakrit (A vernacular language, the language you're most comfortable with) will be used as a second language and your mentor will belong from the same Prakrit background in order to help you along the way.
 
 
 ## Vision
