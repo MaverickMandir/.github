@@ -30,6 +30,8 @@ Modernize, decolonize, decontaminate & revive aspects of Vedic Schooling(Such as
     - Computation
     - Methodical thinking
     - Planning & strategizing
+    - Problem solving
+    - Basic Finance
     - Scientic thinking, etc.
 - Comprehension: 
     - Language
