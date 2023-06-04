@@ -80,6 +80,7 @@ Modernize, decolonize, decontaminate & revive aspects of Vedic Schooling(Such as
 - Project Based Pedegogy
 - Personalised & Gamified Teaching
 - Dynamic Curriculum
+- Focus on discipline not obedience 
 - Maximised Real reward on successful attempt
 - Minimised Real pain on failed attempt
 
