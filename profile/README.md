@@ -3,7 +3,8 @@
 > – A.P.J. Abdul Kalam
 <!-- <img src="././logo.png" width="100" alt="Logo"> -->
 
-# A community commited to Investing in future & training future entrepreneur & statesperson.
+# Post GPT Era Education Framework!
+## A community commited to Investing in future & training future investor, entrepreneur & statesman.
 <!-- ## What do we do? Detailed info -->
 We aspire to facilitate free of cost education for deserving students who have potential, courage & drive to work on humanitarian issues such as longivity, sustainable living & energy, computational intelligence, synthetic biology etc.
 
