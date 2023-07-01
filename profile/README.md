@@ -4,11 +4,11 @@
 > “Where there is righteousness in the heart, there is beauty in the character. When there is beauty in the character, there is harmony in the home. When there is harmony in the home, there is order in the nation. When there is order in the nation, there is peace in the world.”<br>
 > – A.P.J. Abdul Kalam
 
-# Post GPT Era Education Framework!
+### Post GPT Era Education Framework!
 
 ## Curriculum
 
-### **The Process**
+# **The Process**
 Somewhat equivalent of admission process. 
 
 It'll be completely merit based through three gamified platforms.
@@ -70,7 +70,7 @@ Upon scoring in leaderboard, you'll win rings as achievements.
 
 You can also join tournaments to compete with other students & win real prizes.
 
-### **The Programs**
+# **The Programs**
 Somewhat equivalent of classes.
 
 It'll be based on skills and ability of the student.
@@ -107,7 +107,9 @@ Areas of focus:
 Beyond this program, there won't be any generic paths, Students will choose their own path.
 
 ### Specialist
-You focus on one single thing & along with like minded people, you startup or join one.
+You pick your own ultralearning projects.
+
+Eventually along with like minded people, you startup or join one.
 Or you join the military/beurocracy.
 
 You'll lose your membership, if you choose something that is not an acceptable career option in maverick charter.
@@ -126,7 +128,7 @@ Retire: You no longer have to sacrifice your present for your future.
 ### Polymath
 Now you can start your riskier ventures, maybe you could get into politics.
 
-### **The Protocols**
+# **The Protocols**
 Somewhat equivalent of routines.
 
 It is a flexible yet firm proposal to govern yourself effectively.
@@ -138,28 +140,24 @@ Idea is to average out the time spend on an individual protocol & map it to an o
 
 So, we'll set a limit with second precision per day on average. A day/earth rotation is equavalent to `86164 seconds`.
 
-Left: 8164 sec
 ### Health
 
 #### Sleep
 ###### 29000s/29ks (8:5 HR)
 
 #### Workout 
-
 ##### 4ks (1:7 HR)
 
 #### Diet
-##### 
+##### 4ks (1:7 HR)
 
-#### Aesthetics
-##### 
 
 ### Learn
 Learning through form such as `Reading`, `Podcasts`, `Videos`, `Discussion`, `Debate `, `Monologue `, `Dialogue`, `Polylogue`, `Playground` or any other form of learning.
 
 One learning session is 1500s/1.5 ks (0:25 HR) long, followed by a 500s (0:8 HR) of idle break to think through & recall the learnings.
 
-##### 6 such learning sessions per day on average.
+##### 2ks (0:33 HR)
 
 
 ### Policy
@@ -187,3 +185,5 @@ If the activities you're doing, thing you're building or the problem you're solv
 The activities that are nor productive neither unproductive, it is necessary but serves no purpose. Activities that you're doing is just for the sake of doing it.
 
 Example: when your mother tells you do your bed, you have to do it, there is no other way!
+
+##### 2164s
