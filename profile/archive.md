@@ -81,15 +81,15 @@ Modernize, decolonize, decontaminate & revive aspects of Vedic Schooling(Such as
 - Mastery Based Learning
 - Project Based Pedegogy
 - Personalised & Gamified Teaching
-- Dynamic Curriculum
+- Guru Shishya Parampara
 - Focus on discipline not obedience 
 - Maximised Real reward on successful attempt
 - Minimised Real pain on failed attempt
 
 ## Overview
 
-> No classes, No rigid courses & No stupid rules. <br>
-> Only learning, programs & protocols. <br>
+> No bs, no classes, no rigid courses & no stupid rules. <br>
+> Only self-directed and aggressive learning. <br>
 
 > “Talent hits a target no one else can hit; Genius hits a target no one else can see.”<br>
 > – Arthur Schopenhauer.

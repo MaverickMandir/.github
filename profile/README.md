@@ -6,6 +6,14 @@
 
 ### Post GPT Era Education Framework!
 
+## Overview
+
+> No bs, no classes, no rigid courses & no stupid rules. <br>
+> Only self-directed and aggressive learning. <br>
+
+> “Talent hits a target no one else can hit; Genius hits a target no one else can see.”<br>
+> – Arthur Schopenhauer.
+
 ## Curriculum
 
 # **The Process**
@@ -16,7 +24,7 @@ There won't be any annual admission tests but rather it'll be throughout the yea
 The students who'll top on the leaderboard in those platforms will meet the eligibility criteria.
 
 > Short description of those three platform:
-### Ganit (Computation)
+## Ganit (Computation)
 This platform is dedicated to test the mental abilities (IQ) of the child.
 
 Areas of focus:
@@ -24,7 +32,7 @@ Areas of focus:
 - Pattern Recognition
 - General Intelligence (Logic, Reasoning & Planning)
 
-### Shiksha (Humanity)
+## Shiksha (Humanity)
 This platform is dedicated to test the linguistic ability (EQ) of the child.
 
 Areas of focus:
@@ -39,7 +47,7 @@ Areas of focus:
     - Python ( Easy to learn, high level programming language for Algorithm development )
     - Javascript ( Easy to learn, high level programming language for Interface development )
 
-### Veda (General Knowledge)
+## Veda (General Knowledge)
 This platform is dedicated to test the retention & analytical ability of the child.
 
 Areas of focus:
@@ -77,7 +85,7 @@ It'll be based on skills and ability of the student.
 It is structured in such a way that, it'll act as a mirror to you life & represent phases of your life.
 
 > Short description of the programs:
-### Literacy
+## Literacy
 The first program will be conducted on the virtual Maverick Mandir Campus & it'll majorly focus on getting digital/future literacy.
 It is structured in such a way that students accustomed to different ways can integrate to maverick way of doing things & experiment for themselves wheather it is suited for them or not without any commitments.
 
@@ -91,7 +99,7 @@ Areas of focus:
 - Verbal & Non-verbal Communication
 - Mentor pre-program students.
 
-### Generalist
+## Generalist
 The second propram. Learning & Studying everything that made human civilization possible from the POV that, if human civilization were to collapse for x reason, You'll be able restart the civilization on a small scale at least within a century.
 
 Also you will visit Physical Maverick Mandir Campus. This program is basically apprenticeship.
@@ -106,7 +114,7 @@ Areas of focus:
 
 Beyond this program, there won't be any generic paths, Students will choose their own path.
 
-### Specialist
+## Specialist
 You pick your own ultralearning projects.
 
 Eventually along with like minded people, you startup or join one.
@@ -118,14 +126,14 @@ There is no such thing as failure as endgame, failure is a process. Endgame is e
 
 You'll stay full time at Physical Maverick Mandir campus in order to spend more time with your teammates to brainstrom or build the product or service you're building.
 
-### Independence
+## Independence
 You made a decent amount of money & build an investment portfolio along the way that generates enough cashflow to sustain you family.
 
 In current scenario: You need around 2.4 crore lumpsum in India to retire.
 
 Retire: You no longer have to sacrifice your present for your future.
 
-### Polymath
+## Polymath
 Now you can start your riskier ventures, maybe you could get into politics.
 
 # **The Protocols**
@@ -140,50 +148,78 @@ Idea is to average out the time spend on an individual protocol & map it to an o
 
 So, we'll set a limit with second precision per day on average. A day/earth rotation is equavalent to `86164 seconds`.
 
-### Health
+## Health (37ks)
 
-#### Sleep
-###### 29000s/29ks (8:5 HR)
+### Sleep | 29000s/29ks (8:5 HR)
 
-#### Workout 
-##### 4ks (1:7 HR)
+### Workout | 4ks (1:7 HR)
 
-#### Diet
-##### 4ks (1:7 HR)
+### Diet | 4ks (1:7 HR)
 
 
-### Learn
+## Learn (12ks)
 Learning through form such as `Reading`, `Podcasts`, `Videos`, `Discussion`, `Debate `, `Monologue `, `Dialogue`, `Polylogue`, `Playground` or any other form of learning.
 
 One learning session is 1500s/1.5 ks (0:25 HR) long, followed by a 500s (0:8 HR) of idle break to think through & recall the learnings.
 
-##### 2ks (0:33 HR)
+#### Session | 2ks (0:33 HR)
 
 
-### Policy
+## Policy (1.2ks)
 
 Optimal: One learning session equivalent.
 
-#### Journal
-#### Planning
+### Journal | 600s (0:10 HR)
+### Planning | 600s (0:10 HR)
 
 
-### Social
+## Social (35964s)
 
-#### Productive
+### Productive | 29000s/29ks (8:5 HR)
 
 If the activities you're doing, thing you're building or the problem you're solving along with your peers are dedicated to benefit others. It is a productive social act.
 
-##### 29000s/29ks (8:5 HR)
-
-#### Unproductive
+### Unproductive | 4ks (1:7 HR)
 If the activities you're doing, thing you're building or the problem you're solving to benefit yourself or for your amusement, It is an unproductive social act.
 
-##### 4ks (1:7 HR)
-
-#### Chore
+### Chore | 2964s (0:49 HR)
 The activities that are nor productive neither unproductive, it is necessary but serves no purpose. Activities that you're doing is just for the sake of doing it.
 
 Example: when your mother tells you do your bed, you have to do it, there is no other way!
 
-##### 2164s
+# Other Features
+
+- Ultralearning Project Based
+<!-- https://www.youtube.com/watch?v=J2JGiJNUsD4 -->
+- Mastery Based Learning
+- Project Based Pedegogy
+- Personalised & Gamified Teaching
+- Guru Shishya Parampara
+- Focus on discipline not obedience 
+- Maximised Real reward on successful attempt
+- Minimised Real pain on failed attempt
+
+> ## Pricings (Sustainibility)
+> 
+>> ### Students
+>> - Once you are enrolled in a Program.
+>> - Free Forever.
+>
+>> ### Sustainers
+>> - Once you've started making money.
+>> - Min 1K/quarter.
+> 
+>> ### Patron
+>> - Once you've become financially independent.
+>> - Min 10k/quarter.
+> 
+>> ### Sponsor
+>> - You genuinely believe in our cause.
+>> - Min 100k/quarter.
+
+## Our Inspirations
+
+- [42](https://42.fr/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [Y Combinator](https://www.ycombinator.com/)
+- [Blackstone](https://www.blackstone.com/)
